@@ -15,7 +15,7 @@ git show [object] - used to view details on blobs, trees, tags, and commits
 Restoring Files:
 
 git restore --staged [filename] - unstages changes but keeps changes in working directory
-git restore [filename] - gits rid of changes made to file
+git restore [filename] - gets rid of changes made to file
 git restore --staged --worktree - can use to go back to previous commit (can also use git reset)
 
 Branching:
